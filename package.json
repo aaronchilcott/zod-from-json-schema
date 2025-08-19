@@ -1,5 +1,5 @@
 {
-    "name": "zod-from-json-schema",
+    "name": "zod-v4-from-json-schema",
     "version": "1.0.0",
     "description": "Creates Zod types from JSON Schema at runtime",
     "main": "dist/index.js",
